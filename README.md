@@ -6,9 +6,8 @@ AI пишет стартап на основе подписчиков в Instagr
 
 ## Experiment Stats
 
-Subscribers: 0  
-Lines of code: 0  
-Project status: starting
+Subscribers: 2  
+Lines of code: 2 
 
 ## Rules
 
